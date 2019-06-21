@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">commitporto</string>
+
+    <!-- content description -->
+    <string name="hint_speaker_image">Speaker Image</string>
+    <string name="hint_speaker_name">Speaker Name</string>
+    <string name="hint_speaker_talk">Speaker Talk</string>
+</resources>
