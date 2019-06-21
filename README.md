@@ -5,7 +5,7 @@ I'm going to give a talk at Commit Porto about it:
 <br>
 👉 The Hitchhikers Guide Through Kotlin Multiplaform
 
-
+<br>
 This repository contains a demo of a simple application developed to show how we can have a shared logic module between two different targets - in this case, Android and iOS.
 
 
